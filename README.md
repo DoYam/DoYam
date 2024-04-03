@@ -37,8 +37,8 @@ A trust verification solution for social accounts applicable to various Social-F
 Web 3.0 user analytics tool maximizing transparency, a key feature of blockchain<br />
 [devfolio](https://devfolio.co/projects/walletmetrics-google-analytics-for-dapps-7987)   <br />
 [github](https://github.com/DoYam/walletmetrics-client) 
-
-
+ <br />
+ <br />
 # I code with
 <div>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
@@ -46,8 +46,8 @@ Web 3.0 user analytics tool maximizing transparency, a key feature of blockchain
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
 </div>
-
-
+ <br />
+ <br />
 # Contact
 <div>
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white">
