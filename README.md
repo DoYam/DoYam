@@ -1,4 +1,4 @@
-## Welcome to Sydney's Github 🙌
+## Welcome to Sydney's Github!
 
 💻 **Frontend Developer, but I can be anything!**  <br />
 🚀 **Early-stage Startup Operational Experience**<br />
@@ -7,7 +7,7 @@
 <br />
 
 
-## 🏅Awards
+## Awards
 ### ETH Seoul 2024
 🏆 **2nd Prize** <br />
 🏆 **Top 7 Finalist Prize** <br />
