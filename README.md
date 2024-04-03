@@ -8,7 +8,7 @@
 
 
 ## Awards
-### ETH Seoul 2024
+## ETH Seoul 2024
 🏆 **2nd Prize** <br />
 🏆 **Top 7 Finalist Prize** <br />
 🅿️ **NEOPIN: Best non-DeFi Use Case** <br />
@@ -20,7 +20,7 @@ Empower User Gross with Cost-per-Transaction, On-Chain Referral SDK <br />
 [github](https://github.com/mijungee/split-monorepo)   
 
 
-### LBank Labs Innovatation Hackathon
+## LBank Labs Innovatation Hackathon
 🏆 **2nd Prize** <br />
 
 **Social Valley : Multi-chain Social Graph Solution** <br />
@@ -29,7 +29,7 @@ A trust verification solution for social accounts applicable to various Social-F
 
 
 
-### ETH Seoul 2023
+## ETH Seoul 2023
 🏆 **Web 3.0 dApp : 1st Prize**
 
 **WalletMetrics : Google Analytics for DApps**<br />
