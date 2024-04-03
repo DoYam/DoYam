@@ -3,6 +3,7 @@
 💻 **<u>Frontend Developer</u>** , but I can be anything! <br />
 🚀 Early-stage Startup Operational Experience<br />
 🔗 Blockchain Valley Development Team Mentor<br />
+🎓 Bachelor of Computer Engineering at Hongik University<br />
 😈 **Ambitious Hackathon Hunter**<br />
 
 
