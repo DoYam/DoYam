@@ -1,10 +1,10 @@
-# Welcome to Sydney's Github 🙌
+## Welcome to Sydney's Github 🙌
 
 💻 **Frontend Developer, but I can be anything!**  <br />
 🚀 **Early-stage Startup Operational Experience**<br />
 🔗 **Blockchain Valley Development Team Mentor**<br />
 😈 **Ambitious Hackathon Hunter**<br />
-
+<br />
 
 
 ## 🏅Awards
@@ -21,7 +21,7 @@ Empower User Gross with Cost-per-Transaction, On-Chain Referral SDK <br />
 
 
 ### LBank Labs Innovatation Hackathon
-🏆 2nd Prize <br />
+🏆 **2nd Prize** <br />
 
 **Social Valley : Multi-chain Social Graph Solution** <br />
 A trust verification solution for social accounts applicable to various Social-Fi  <br />
@@ -30,7 +30,7 @@ A trust verification solution for social accounts applicable to various Social-F
 
 
 ### ETH Seoul 2023
-🏆 Web 3.0 dApp : 1st Prize
+🏆 **Web 3.0 dApp : 1st Prize**
 
 **WalletMetrics : Google Analytics for DApps**<br />
 Web 3.0 user analytics tool maximizing transparency, a key feature of blockchain<br />
