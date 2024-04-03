@@ -1,14 +1,15 @@
-## Welcome to Sydney's Github!
+# Welcome to Sydney's Github!
 
-💻 **Frontend Developer, but I can be anything!**  <br />
-🚀 **Early-stage Startup Operational Experience**<br />
-🔗 **Blockchain Valley Development Team Mentor**<br />
+💻 **<u>Frontend Developer</u>** , but I can be anything! <br />
+🚀 Early-stage Startup Operational Experience<br />
+🔗 Blockchain Valley Development Team Mentor<br />
 😈 **Ambitious Hackathon Hunter**<br />
+
+
 <br />
 
-
-## Awards
-## ETH Seoul 2024
+# Awards
+## [ETH Seoul 2024](https://www.ethseoul.org/)   
 🏆 **2nd Prize** <br />
 🏆 **Top 7 Finalist Prize** <br />
 🅿️ **NEOPIN: Best non-DeFi Use Case** <br />
@@ -30,11 +31,10 @@ A trust verification solution for social accounts applicable to various Social-F
 
 
 ## ETH Seoul 2023
-🏆 **Web 3.0 dApp : 1st Prize**
+🏆 **1st Prize : Web 3.0 dApp**<br />
 
 **WalletMetrics : Google Analytics for DApps**<br />
 Web 3.0 user analytics tool maximizing transparency, a key feature of blockchain<br />
 [devfolio](https://devfolio.co/projects/walletmetrics-google-analytics-for-dapps-7987)   <br />
-[github](https://github.com/DoYam/walletmetrics-client) <br />
-
+[github](https://github.com/DoYam/walletmetrics-client) 
 
