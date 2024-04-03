@@ -40,8 +40,15 @@ Web 3.0 user analytics tool maximizing transparency, a key feature of blockchain
 
 
 # I code with
+<div>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 <img src="https://img.shields.io/badge/Javascript-3178C6?style=for-the-badge&logo=Javascript&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
+</div>
+
+
+# Contact
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
 
