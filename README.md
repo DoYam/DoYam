@@ -1,6 +1,6 @@
 # Welcome to Sydney's Github!
 
-💻 **<ul>Frontend Developer</ul>** , but I can be anything! <br />
+💻 **<u>Frontend Developer</u>** , but I can be anything! <br />
 🚀 Early-stage Startup Operational Experience<br />
 🔗 Blockchain Valley Development Team Mentor<br />
 😈 **Ambitious Hackathon Hunter**<br />
