@@ -39,9 +39,9 @@ Web 3.0 user analytics tool maximizing transparency, a key feature of blockchain
 [github](https://github.com/DoYam/walletmetrics-client) 
  <br />
  <br />
-  <br />
+
  
-# I code with
+# I Code With
 <div>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 <img src="https://img.shields.io/badge/Javascript-3178C6?style=for-the-badge&logo=Javascript&logoColor=white">
@@ -50,7 +50,7 @@ Web 3.0 user analytics tool maximizing transparency, a key feature of blockchain
 </div>
  <br />
  <br />
-  <br />
+
   
 # Contact
 <div>
