@@ -22,7 +22,7 @@ Empower User Gross with Cost-per-Transaction, On-Chain Referral SDK <br />
 [github](https://github.com/mijungee/split-monorepo)   
 
 
-## LBank Labs Innovatation Hackathon
+## LBank Labs Innovation Hackathon
 🏆 **2nd Prize** <br />
 
 **Social Valley : Multi-chain Social Graph Solution** <br />
