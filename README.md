@@ -50,7 +50,8 @@ Web 3.0 user analytics tool maximizing transparency, a key feature of blockchain
 
 # Contact
 <div>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=X&logoColor=white">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </div>
 
