@@ -1,4 +1,4 @@
-# Welcome to Sydney's Github!
+# Welcome to strawberry1drink's Github!
 
 💻 **<u>Frontend Developer</u>** , but I can be anything! <br />
 🚀 Early-stage Startup Operational Experience<br />
