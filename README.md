@@ -1,6 +1,6 @@
 # Welcome to strawberry1drink's Github!
 
-💻 **<u>Frontend Developer</u>** , but I can be anything! <br />
+💻 **<u>FullStack Developer</u>**<br />
 🚀 Early-stage Startup Operational Experience<br />
 🦁 Startup Development Club Management Team <br />
 🔗 Blockchain Valley Development Team Mentor<br />
@@ -45,11 +45,11 @@ Web 3.0 user analytics tool maximizing transparency, a key feature of blockchain
  
 # Tech Stack
 <div>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+ <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Javascript-3178C6?style=for-the-badge&logo=Javascript&logoColor=white">
- <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 </div>
  <br />
  <br />
@@ -58,8 +58,6 @@ Web 3.0 user analytics tool maximizing transparency, a key feature of blockchain
   
 # Contact
 <div>
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+doniang1123@gmail.com
 </div>
 
